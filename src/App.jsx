@@ -1,6 +1,6 @@
-import Challenge from "./components/Challenge2";
+import ProjectOne from "./components/ProjectOne";
 
 function App (){
-  return <Challenge></Challenge>
+  return <ProjectOne></ProjectOne>
 }
 export default App;

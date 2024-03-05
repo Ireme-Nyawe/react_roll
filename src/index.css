@@ -70,7 +70,7 @@ color: #DEEBF8;
 
 /* challenge */
 .contact-container{
-  width: 600px;
+  width: 100vw;
   display: flex;
   padding: 10px;
   flex-wrap: wrap;

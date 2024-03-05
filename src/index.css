@@ -43,9 +43,15 @@ color: #DEEBF8;
 .main{
   padding: 20px;
   margin-top: 40px;
+  background-image: url("../src/assets/react.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 200px 150px;
+  margin-right: -14%;
 }
 .fun-items{
-  background: #282D35;
+  background: transparent;
+
 }
 .items-header{
   color: #FFFFFF;

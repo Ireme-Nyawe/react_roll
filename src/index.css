@@ -5,6 +5,7 @@
 body{
   margin: 0;
   background-color: #282D35;
+  overflow-x: hidden;
 
 }
 .nav{
@@ -47,7 +48,7 @@ color: #DEEBF8;
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 200px 150px;
-  margin-right: -14%;
+  margin-right: -6%;
 }
 .fun-items{
   background: transparent;
